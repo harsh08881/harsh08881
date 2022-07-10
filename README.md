@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kumarharshgupta123@gmail.com**
 
-<p><img align="right" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></p>
+<p><img align="right" width"200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
