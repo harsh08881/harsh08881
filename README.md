@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kumaarharsh" target="blank"><img src="https://img.shields.io/twitter/follow/kumaarharsh?logo=twitter&style=for-the-badge" alt="kumaarharsh" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Devlopment**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **React, Node and Blockchain**
 
