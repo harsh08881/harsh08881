@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, Node and Blockchain**
 
 - 📫 How to reach me **kumarharshgupta123@gmail.com**
-<img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
 <h3 align="left">Connect with me:</h3>
