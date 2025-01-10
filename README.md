@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kumar Harsh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh08881&label=Profile%20views&color=0e75b6&style=flat" alt="harsh08881" /> </p>
 
 <p align="left"> <a href="https://x.com/Harsh0888_" target="blank"><img src="https://img.shields.io/twitter/follow/Harsh0888_?logo=twitter&style=for-the-badge" alt="Harsh0888_" /></a> </p>
